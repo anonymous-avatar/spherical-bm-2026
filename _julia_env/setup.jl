@@ -11,7 +11,7 @@
 # simulation script in accompanying-code can be run directly — the
 # activation prologue at the top of each script reuses this environment.
 
-using Pkg
+import Pkg
 
 const ENV_DIR = @__DIR__
 const LIB     = joinpath(ENV_DIR, "..", "_lib", "UndersampledSphericalBMs2025")

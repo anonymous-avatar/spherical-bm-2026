@@ -10,7 +10,7 @@ figure (or small group). Empty `figXX_*/` directories are placeholders.
 |  3 | §3 | `fig_temperature_tuning_pmo.pdf`             | [fig03_temperature_tuning_pmo](fig03_temperature_tuning_pmo/) | jl |
 |  4 | §3 | `fig_double_descent.pdf`                     | [fig04_double_descent](fig04_double_descent/) | jl |
 |  5 | §3 | `phase_diagram_gamma_omega.pdf`              | [fig05_12_phase_diagram_gamma_omega](fig05_12_phase_diagram_gamma_omega/) | jl + py |
-|  6 | §3 | `fig_ooe_wrap.pdf`                           | [fig06_ooe_wrap](fig06_ooe_wrap/) | _pending_ |
+|  6 | §3 | `fig_ooe_wrap.pdf`                           | [fig06_ooe_wrap](fig06_ooe_wrap/) | jl |
 |  7 | App. A | `fig_phase_diagram_k=2_appendix.pdf`         | [fig07_phase_diagram_k2_appendix](fig07_phase_diagram_k2_appendix/) | jl |
 |  8 | App. B | `fig_msr_langevin_validation.pdf`            | [fig08_msr_langevin_validation](fig08_msr_langevin_validation/) | jl |
 |  9 | App. B | `fig_finite_eta_phase_diagrams.pdf`          | [fig09_finite_eta_phase_diagrams](fig09_finite_eta_phase_diagrams/) | jl |

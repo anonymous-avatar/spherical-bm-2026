@@ -1,7 +1,3 @@
-name = "UndersampledSphericalBM_Figures"
-uuid = "7ca43d7c-19f1-405d-92f5-000000000001"
-authors = ["NeurIPS 2026 anonymous submission"]
-
 # Shared Julia environment for every Julia figure / simulation script in
 # accompanying-code. Activate with `Pkg.activate(joinpath(@__DIR__, "..",
 # "_julia_env"))` (or run the bundled `setup.jl` once); each figure script
